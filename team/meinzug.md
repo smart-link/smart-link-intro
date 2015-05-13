@@ -41,3 +41,53 @@
 #### 말씀 감사합니다. 마지막으로 한 말씀 남기신다면?
 
 > 이번 기회에 편하게 이야기를 할 수 있었던것 같네요. 기쁘게 생각합니다~. 앞으로도 여러가지 흥미로운 프로젝트로 만나뵙고 싶구요, 클라이언트의 성공이 팀의 성공이라 믿으며 항상 노력하고 있습니다. 감사합니다.
+
+---
+
+## 개인경력 사항
+
+#### 기본사항
+
+* 이름 : 김병훈
+* 생년월일 : 1976년 6월 1일 (만 38세)
+* 연락처 : 010-3875-2180
+* 이메일 : meinzug@me.com
+* 주소 : 서울 서초구 내곡동 서초더샵포레 105동 1602호
+
+
+#### 주요 경력사항
+
+| 기간 | 내용 | 담당업무 | 개발 키워드 | 소속 | 
+|:--   |:--   |:--       |:--              |:--   |
+| 2000.03 ~ 2001.01 | 온라인 게임 런처 개발 | 온라인 게임 런처 개발, 랭킹서버 시스템 구축 | Windows, MS-SQL, Delphi, C++Builder, MIDAS | NEGA |
+| 2001.01 ~ 2001.10 | (주)Xonda.net SMS 예약발송 시스템 개발| DB설계/프로시저 개발 | Windows, MS-SQL, T-SQL | - |
+| 2001.11 ~ 2003.12 | 육군본부 전투지휘훈련단 전투모의처 근무. 워게임 유틸리티 개발 | 군편제 데이터 로딩 툴 개발, 군편제 데이터 오류검증 툴 개발 | SCO Unix, Oracle, Pro C, VC++ | BCTP |
+| 2004.01 ~ 2004.04 | SKT EMS(Enterprise Resource Management System) 패키지 개발 | NMS(Network Management System) 모듈 설계,개발, SNMP 를 이용한 네트워크 분석 | HPUX, Oracle, Java, Eclipse, CVS, SNMP | NKIA |
+| 2004.04 ~ 2004.06 | EMS 패키지 고도화 (내부 프로젝트) | NMS 모듈 고도화 | Solaris, Oracle, Java, Eclipse, CVS, SNMP | NKIA |
+| 2004.06 ~ 2004.12 | 한국석유공사 EMS 패키지 구축 | NMS 설계, 개발 | HPUX, Oracle, Java, Eclipse, CVS, SNMP | NKIA |
+| 2005.01 ~ 2005.03 | 포스코 포항, 광양 장애관리 시스템 구축 | 비 IT 자원(카메라, 교환기, 온도계, 정류기) 관리모듈 설계, 개발 | AIX, Oracle, IBM Tivoli, Java, Eclipse, CVS, SNMP | NKIA |
+| 2005.04 ~ 2005.05 | 한국석유공사 유류정보망 NMS 구축 | NMS 설계, 개발 | HPUX, Oracle, Java, Eclipse, CVS, SNMP | NKIA |
+| 2005.05 ~ 2005.06 | 한림대의료원 EMS 구축 | NMS 구축, 설계, 개발 | AIX, Oracle, Java, Eclipse, CVS, SNMP | NKIA |
+| 2005.07 | LGT 생활방수폰 CANU 단말 개발 | 카메라 앱 개발 | Windows, ADS, VC++, CVS | Veloxsoft |
+| 2005.08 ~ 2005.10 | 삼성전자 북미향 단말 플랫폼 JBUS 개발 | 폰북 개발 | Windows, ADS, VC++, CVS |  Veloxsoft |
+| 2005.10 ~ 2006.02 | SKT T-PAK 통합단말 플랫폼 개발 | 폰북 개발 | Windows, ADS, VC++, CVS | Veloxsoft |
+| 2006.02 ~ 2006.05 | SKT 1mm 서비스 개발 | 1mm 응용프로그램 개발 | Windows, ADS, VC++, CVS | Veloxsoft |
+| 2006.06 ~ 2007.03 | 모토로라 크레이져 단말 개발 | 폰북 프레임웍 설계, 개발 | Windows, ADS, VC++, CVS | Veloxsoft |
+| 2007.03 ~ 2007.12 | 온라인복권, 나눔로또 NMS 구축 | NMS 구축, 설계, 개발 | HPUX, Oracle, Java, Eclipse, SVN, SNMP | NKIA |
+| 2008.01 ~ 2009.10 | NMS 패키지 고도화 (내부 프로젝트) | NMS 프레임웍 고도화 설계, 개발 | Solaris, Oracle, Java, Eclipse, SVN, SNMP | NKIA |
+| 2009.12 ~ 2010.10 | PC 게임 Return of Warrior 게임 개발 | 분석, 게임서버 컨설팅 | OSX, Windows, AWS, SVN | TANGAMES |
+| 2010.11 ~ 2011.12 | 웹게임 삼국지 개발 | 분석, 설계, 개발 | OSX, Windows, AWS, Apache, Mysql, PHP, Git | TANGAMES |
+| 2012.01 ~ 2013.02 | iOS 게임 StarDefense 개발 | 설계, 개발, 퍼블리싱 | OSX, SQLite, Objective-C, XCode, Cocos2d, SVN | TANGAMES |
+| 2013.03 ~ 2014.09 | iOS, Andriod 게임 Dragon Heros 개발 | 기획, 설계, 프로토타입 개발 | OSX, AWS, Mysql, Unity3D, C#, Git | TANGAMES |
+| 2014.10 ~ 2015.04 | 위치기반 커뮤니티 서비스 개발 | 기획, 설계, 백앤드 개발 | OSX, AWS, Mysql, Nodejs, Hapi, Javascript, CoffeeScript, Git | SMART-LINK |
+| 2015.04 ~ 현재 | 범용 RESTful API 서비스 개발 | 기획, 설계, 백앤드 개발 | OSX, AWS, Mysql, Nodejs, Hapi, Javascript, CoffeeScript, Git | SMART-LINK |
+
+#### 자격 및 교육사항
+
+| 기간    | 내용 |
+|:--      |:--   |
+| 1999.10 | 정보처리기사 취득 |
+| 1999.12 | 핸디소프트 MCSE 과정 수료 |
+| 2000.04 | 인하대학교 일반대학원 컴퓨터공학과 슈퍼컴퓨팅 연구실 중퇴 |
+| 2000.04 | (주)볼랜드 델파이 고급과정 수료 |
+| 2001.10 | 육군본부 SW 개발인력 선발 |
